@@ -169,6 +169,7 @@ body {
 .about-text p {
   font-size: 15.5px;
   line-height: 2;
+  text-align: justify;
   color: #334155;
   margin-bottom: 18px;
 }
@@ -783,3 +784,4 @@ body {
     text-align: center;
   }
 }
+
