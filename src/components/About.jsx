@@ -19,8 +19,9 @@ export default function About() {
             With a background in Computer Science, I bring a structured and problem-solving approach to design. I focus on layout, color accuracy, typography, and print quality, and I am continuously improving my creative skills through hands-on experience and learning.
 
           </p>
+          <p>
           I am a fast learner, adaptable, and enthusiastic about growing as a graphic designer in a professional creative environment.
-          <p></p>
+          </p>
 
           <a href="/Santhosh Resume.pdf" download className="btn-primary">
             Download CV
@@ -38,3 +39,4 @@ export default function About() {
     </section>
   );
 }
+
