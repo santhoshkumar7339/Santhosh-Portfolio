@@ -23,7 +23,7 @@ export default function Navbar() {
       {/* Icons */}
       <div className="nav-icons">
         <a href="https://github.com/santhoshkumar7339" target="_blank"><FaGithub /></a>
-        <a href="https://www.linkedin.com/in//" target="_blank"><FaLinkedin /></a>
+        <a href="https://www.linkedin.com/in/santhosh-kumar-6713b8395" target="_blank"><FaLinkedin /></a>
         <a
           href="mailto:santhoshkumar22033@gmail.com,"
           aria-label="Email Santhosh Kumar"
@@ -51,3 +51,4 @@ export default function Navbar() {
     </header>
   );
 }
+
