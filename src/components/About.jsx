@@ -10,7 +10,7 @@ export default function About() {
         {/* Left Text */}
         <div className="about-text">
           <p>
-            I’m Santhosh Kumar R, a passionate and detail-oriented Graphic Designer based in Kanchipuram, Tamil Nadu.
+            I’m Santhosh Kumar R, a passionate and detail-oriented Graphic Designer based in Chennai, Tamil Nadu.
           </p>
           <p>
             I am currently pursuing professional graphic design training at Artpro Graphics, a multi-disciplinary creative agency specializing in artwork design, digitizing, namedrop, and print services. I enjoy transforming ideas into clean, visually engaging designs that meet both creative and technical requirements.
@@ -39,4 +39,5 @@ export default function About() {
     </section>
   );
 }
+
 
